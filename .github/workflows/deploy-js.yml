@@ -39,7 +39,7 @@ jobs:
       - name: Buid JS bundle
         run: |
           ./gradlew :build
-          ./gradlew :client:jsBrowserProductionWebpack
+          ./gradlew :jsBrowserProductionWebpack
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact

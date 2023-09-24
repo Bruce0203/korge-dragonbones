@@ -8,5 +8,3 @@ plugins {
 rootProject.name = "metron"
 kproject("./deps")
 
-include(":client")
-include(":shared")
