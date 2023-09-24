@@ -1,2 +1,3 @@
 dependencies:
   - https://github.com/korlibs/korge-fleks/tree/main/fleks
+  - git::korge-dragonbones::korlibs/korge-dragonbones::/korge-dragonbones::d6e5475a8f40f785a6a9c5699cebea5abe9eaff7
